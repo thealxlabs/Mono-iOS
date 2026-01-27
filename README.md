@@ -211,40 +211,41 @@ Access via the gear icon:
 
 ## Contributing
 
-Contributions are welcome! Please follow these steps:
+We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
 
-### Fork & Clone
+### Quick Links
+
+- 🐛 [Report a Bug](https://github.com/alxgraphy/Mono-iOS/issues/new?template=bug_report.md)
+- ✨ [Request a Feature](https://github.com/alxgraphy/Mono-iOS/issues/new?template=feature_request.md)
+- 💬 [Discussions](https://github.com/alxgraphy/Mono-iOS/discussions)
+- 📖 [Contributing Guide](CONTRIBUTING.md)
+
+### How to Contribute
 ```bash
-# Fork the repository on GitHub, then clone your fork
+# Fork the repository, then clone your fork
 git clone https://github.com/YOUR_USERNAME/Mono-iOS.git
 cd Mono-iOS
-```
 
-### Create Branch
-```bash
-# Create feature branch
-git checkout -b feature/AmazingFeature
-```
+# Create a feature branch
+git checkout -b feature/amazing-feature
 
-### Make Changes & Commit
-```bash
-# Make your changes, test on physical device
-git commit -m 'Add some AmazingFeature'
-```
+# Make your changes and commit
+git commit -m 'Add some amazing feature'
 
-### Push & PR
-```bash
 # Push to your fork
-git push origin feature/AmazingFeature
-# Then open Pull Request on GitHub
+git push origin feature/amazing-feature
+
+# Open a Pull Request on GitHub
 ```
 
 ### Guidelines
 
 - Follow Swift style guide
 - Test on physical device (Live Activities)
-- Update README if adding features
+- Update documentation if adding features
 - Keep commits focused and descriptive
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
@@ -353,9 +354,13 @@ Steps to Reproduce:
 3. ...
 ```
 
+Use our [Bug Report Template](https://github.com/alxgraphy/Mono-iOS/issues/new?template=bug_report.md)
+
 ### Feature Requests
 
-Open a discussion with:
+Have an idea? Use our [Feature Request Template](https://github.com/alxgraphy/Mono-iOS/issues/new?template=feature_request.md)
+
+Include:
 - **Feature Name:** Brief title
 - **Description:** What should it do?
 - **Use Case:** Why is it useful?
@@ -366,6 +371,16 @@ Open a discussion with:
 ## Show Your Support
 
 Give a ⭐️ if this project helped you!
+
+---
+
+## Contributors
+
+Thank you to all our contributors! 🙏
+
+<!-- ALL-CONTRIBUTORS-LIST:START -->
+<!-- This section is automatically generated -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ---
 
