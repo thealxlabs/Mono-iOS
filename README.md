@@ -54,7 +54,7 @@ A minimalist timer and stopwatch app for iOS with a clean, modern interface and 
 ## Requirements
 
 - iOS 16.1 or later
-- iPhone (landscape mode)
+- iPad (landscape mode)
 - Xcode 15+ (for development)
 
 ---
