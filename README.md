@@ -64,7 +64,7 @@ A minimalist timer and stopwatch app for iOS with a clean, modern interface and 
 ### From Source
 ```bash
 # Clone the repository
-git clone https://github.com/alxgraphy/Mono-iOS.git
+git clone https://github.com/thealxlabs/Mono-iOS.git
 
 # Navigate to project directory
 cd Mono-iOS
@@ -215,9 +215,9 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 ### Quick Links
 
-- 🐛 [Report a Bug](https://github.com/alxgraphy/Mono-iOS/issues/new?template=bug_report.md)
-- ✨ [Request a Feature](https://github.com/alxgraphy/Mono-iOS/issues/new?template=feature_request.md)
-- 💬 [Discussions](https://github.com/alxgraphy/Mono-iOS/discussions)
+- 🐛 [Report a Bug](https://github.com/thealxlabs/Mono-iOS/issues/new?template=bug_report.md)
+- ✨ [Request a Feature](https://github.com/thealxlabs/Mono-iOS/issues/new?template=feature_request.md)
+- 💬 [Discussions](https://github.com/thealxlabs/Mono-iOS/discussions)
 - 📖 [Contributing Guide](CONTRIBUTING.md)
 
 ### How to Contribute
@@ -325,7 +325,7 @@ SOFTWARE.
 
 **Alexander Wondwossen**
 
-- GitHub: [@alxgraphy](https://github.com/alxgraphy)
+- GitHub: [@thealxlabs](https://github.com/thealxlabs)
 - Location: Toronto, Canada 🇨🇦
 
 Made with ❤️
@@ -336,8 +336,8 @@ Made with ❤️
 
 ### Get Help
 
-- **Issues:** [GitHub Issues](https://github.com/alxgraphy/Mono-iOS/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/alxgraphy/Mono-iOS/discussions)
+- **Issues:** [GitHub Issues](https://github.com/thealxlabs/Mono-iOS/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/thealxlabs/Mono-iOS/discussions)
 - **Email:** your-email@example.com
 
 ### Reporting Bugs
@@ -354,11 +354,11 @@ Steps to Reproduce:
 3. ...
 ```
 
-Use our [Bug Report Template](https://github.com/alxgraphy/Mono-iOS/issues/new?template=bug_report.md)
+Use our [Bug Report Template](https://github.com/thealxlabs/Mono-iOS/issues/new?template=bug_report.md)
 
 ### Feature Requests
 
-Have an idea? Use our [Feature Request Template](https://github.com/alxgraphy/Mono-iOS/issues/new?template=feature_request.md)
+Have an idea? Use our [Feature Request Template](https://github.com/thealxlabs/Mono-iOS/issues/new?template=feature_request.md)
 
 Include:
 - **Feature Name:** Brief title
