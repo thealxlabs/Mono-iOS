@@ -248,14 +248,14 @@ struct SettingsView: View {
                                 .foregroundColor(textColor)
                                 
                                 Button(action: {
-                                    if let url = URL(string: "https://github.com/alxgraphy") {
+                                    if let url = URL(string: "https://github.com/thealxlabs") {
                                         UIApplication.shared.open(url)
                                     }
                                 }) {
                                     HStack(spacing: 4) {
                                         Text("by Alexander Wondwossen")
                                             .font(.system(size: 11, weight: .medium, design: .rounded))
-                                        Text("@alxgraphy")
+                                        Text("@thealxlabs")
                                             .font(.system(size: 11, weight: .regular, design: .rounded))
                                     }
                                     .foregroundColor(textColor)
